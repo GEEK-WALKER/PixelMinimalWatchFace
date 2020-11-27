@@ -1,6 +1,10 @@
 # Pixel Minimal Watch Face The Division Version
 
-Under Construction
+I will add some The Division elements in this project, maybe it will make this more like a watch from SHD.
+
+###Current state
+
+Under Construction (2022-11-27)
 
 ### Copyright
 
